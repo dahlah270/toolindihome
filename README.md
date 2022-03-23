@@ -1,2 +1,2 @@
 # toolindihome
-cd toolindihome python3 indi.py
+cd toolindihome python indi.py
