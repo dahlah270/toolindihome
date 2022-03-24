@@ -1,5 +1,3 @@
- ​#HALLO RECODER SALLAM KENAL 
- ​#TINGGAL PAKE APA SUSAHNYA:V 
  ​import​ ​os​,​sys​,​time​,​requests 
  ​from​ ​requests​ ​import​ ​post 
  ​s​ ​=​ ​requests​.​Session​() 
